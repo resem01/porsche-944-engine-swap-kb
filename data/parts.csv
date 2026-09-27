@@ -6,7 +6,7 @@ P004,VW 1.8T,engine installation,Motor Werks Racing,,058-to-944 engine installat
 P005,GM LS,conversion,G Force Performance Products,GF-LS944-SWAPKIT,944 LS engine swap kit,Current,S019,2565,2026-09-26,"Requires C5 manual bellhousing and LS flywheel/pressure plate"
 P006,GM LS,complete conversion,G Force Performance Products,GF-LS944-KIT,Complete kit with headers/exhaust,Current,S019,5515,2026-09-26,"Price from current vendor listing"
 P007,Nissan VK56,transmission adapter,C3 Performance,5637-KIT,VK56 to VQ35/VQ37/VR30 CD009/JK manual transmission adapter,Current,S026,800,2026-09-26,"Not a Porsche torque-tube solution; useful feasibility reference"
-P008,VW 07K,clutch hydraulics,GM,24249824,Historical hydraulic throwout bearing specified in 2019 thread,Superceded,S007,,,"Current Boost Brothers requirement is GM 24237569 or FTE 1102235"
+P008,VW 07K,clutch hydraulics,GM,24249824,Historical hydraulic throwout bearing specified in 2019 thread,Superseded,S007,,,"Current Boost Brothers requirement is GM 24237569 or FTE 1102235"
 P009,VW 07K,clutch hydraulics,GM,24234308,Solstice GXP hydraulic throwout bearing used in documented 2019 working installation,Historical,S007,,,"Working development-era configuration; not current vendor requirement"
 P010,VW 07K,starter,Remy,17428,Starter specified by current Boost Brothers full kit,Current,S008,,2026-09-26,
 P011,VW 07K,clutch hydraulics,Kappadapt,CHK101-2,Hydraulic hose adapter for throwout bearing,Current,S008,,2026-09-26,
