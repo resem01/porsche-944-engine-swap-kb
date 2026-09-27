@@ -14,4 +14,12 @@ Status: initial framework. Values are intentionally left blank until sourced und
 | GM aluminum LS | 5.7–6.2L typical | V8 OHV | Aluminum | varies | varies | TBD | TBD | Very high | Strong |
 | Ford 2.3 EcoBoost | 2.3L | Turbo I4 | Aluminum | varies | varies | TBD | TBD | Low | Limited |
 
-Do not populate this table from unsourced internet summary values.
+## Provisional investigation candidate
+
+| Engine | Displacement | Architecture | Block | Initial reason for investigation | Primary concern |
+|---|---:|---|---|---|---|
+| Nissan VK56 | 5.6L | V8 DOHC | Aluminum | Strong NA torque, current swap interest, available transmission-adapter hardware | Very large DOHC package; 944 hood/crossmember fit is unproven |
+
+The VK56 will be promoted into the primary table only if the evidence supports a credible 944 installation path.
+
+Do not populate these tables from unsourced internet summary values.
