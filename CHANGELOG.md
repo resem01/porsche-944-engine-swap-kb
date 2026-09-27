@@ -11,5 +11,9 @@ Initial structured research baseline:
 - added factory Porsche baseline document
 - added research/publication workflow
 - retained secondary candidate engines as documented footnotes
+- completed the first-pass consolidation of the long Rennlist 07K development thread into subsystem documents
+- added a page/post source map and preserved major superseded designs, part numbers, failures and installation lessons
 
-The 07K 182-page Rennlist thread remains scheduled for a dedicated extraction pass.
+The 07K consolidation is intentionally filtered to technical content. Because Rennlist blocks direct automated retrieval of
+some pages, this first pass uses indexed pages and targeted retrieval rather than claiming a literal line-by-line audit of
+all 182 pages. Remaining source gaps are listed in `docs/swaps/07k/source-map.md`.
