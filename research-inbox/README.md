@@ -13,4 +13,4 @@ A research item should contain:
 - whether it confirms, contradicts, or supersedes existing information
 - disposition: pending / accepted / rejected / superseded
 
-The weekly web-monitoring task should surface only substantive new information.
+The web-monitoring task should surface only substantive new information.
