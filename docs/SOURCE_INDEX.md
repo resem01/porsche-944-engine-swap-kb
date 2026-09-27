@@ -36,6 +36,7 @@ Evidence classes are defined in [Evidence and Provenance](methodology/evidence-a
 | S025 | B | 968/944 | [Rennlist 944-to-968 conversion notes](https://rennlist.com/forums/924-931-944-951-968-forum/508194-notes-for-others-considering-944-to-968-engine-conversion.html) | Required donor parts and wiring observations |
 | S025A | B | 968/944 | [944/968 wiring changes](https://members.rennlist.com/tholyoak/944_engine_swap_wiring.htm) | Specific DME/alarm connector adaptation |
 | S026 | V | VK56 | [C3 VK56 manual-trans adapter](https://www.c3adapters.com/product-page/vk50-56-to-vq35-37-6-speed-transmission-adapter-kit) | Shows active VK manual-transmission adapter ecosystem |
+| S027 | R | 07K/944 | [Engine Swap Depot: Porsche 944 with a Turbo VW Inline-Five](https://engineswapdepot.com/?p=123906) | Independent 2024 snapshot of the Boost Brothers test mule: G25-660, 350 hp / 320 lb-ft low boost, Spec clutch and factory torque tube |
 
 ## Source gaps to close
 
