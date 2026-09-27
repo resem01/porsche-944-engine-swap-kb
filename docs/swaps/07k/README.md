@@ -52,6 +52,22 @@ Rennlist builder discussions place an iron-block 07K around **380-400 lb** in ne
 944 NA around 400 lb in comparable ready-to-run trim [S009][S011]. The weight advantage therefore appears modest; the
 packaging and mass-position advantages may matter more.
 
+## Documented Boost Brothers test mule
+
+A November 2024 Engine Swap Depot article provides an independent published snapshot of the Boost Brothers development
+car [S027]. It reports:
+- Garrett G25-660 turbocharger,
+- Boost Brothers intake manifold,
+- custom exhaust manifolds,
+- **350 hp and 320 lb-ft on a lower-boost setting**,
+- Spec clutch,
+- factory Porsche torque tube,
+- five-speed rear transaxle.
+
+The article identifies this car as the Boost Brothers **test mule** for the 944/07K kit. It also preserves the state of the
+commercial kit in late 2024, when three kit levels were advertised at lower prices than the current offering. Those prices
+are useful as development history but are **superseded** by the current vendor listing [S008].
+
 ## Current maturity assessment
 
 **Maturity: Very high relative to other non-Porsche swaps.**
@@ -79,4 +95,4 @@ Remaining research:
 
 ## Source anchors
 
-See [SOURCE_INDEX.md](../../SOURCE_INDEX.md): S007, S008, S009, S010, S011.
+See [SOURCE_INDEX.md](../../SOURCE_INDEX.md): S007, S008, S009, S010, S011, S027.
