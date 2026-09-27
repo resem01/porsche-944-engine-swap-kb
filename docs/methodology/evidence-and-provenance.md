@@ -18,6 +18,10 @@ dyno data, or repeatable installation results.
 **V — Vendor**  
 Vendor or kit-manufacturer documentation. Useful, but commercial claims remain attributed to the vendor.
 
+**R — Published secondary reference**  
+Automotive journalism, technical reference sites, archived specification databases, or other published
+sources that are useful but are not the original manufacturer or builder evidence.
+
 **A — Anecdotal**  
 Forum or social-media report without enough supporting detail for independent verification.
 
@@ -33,6 +37,7 @@ Each technical item may also be marked:
 - Disputed
 - Unverified
 - Needs measurement
+- Provisional
 
 ## Rules
 
@@ -42,3 +47,6 @@ Each technical item may also be marked:
 - Prefer common dimensional datums: bellhousing/torque-tube interface, crankshaft centerline,
   front crank pulley, sump low point, cylinder-head/valve-cover high point.
 - When two credible sources disagree, record the disagreement.
+- A vendor statement that a part “fits” is evidence of the vendor claim, not independent proof of fit.
+- Published journalism describing a completed build is stronger than unsupported forum commentary, but weaker than
+  a builder’s own measurement or engineering drawing.
