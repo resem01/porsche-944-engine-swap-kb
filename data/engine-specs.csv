@@ -1,1 +1,11 @@
 engine_id,engine_family,engine_code,year_range,displacement_cc,architecture,block_material,stock_hp,stock_torque_lbft,source_id,notes
+m44-na,Porsche 944 NA,M44/02,1985 US reference,2479,SOHC I4,Aluminum,143,137,S001,"Project 1985 chassis baseline"
+m44-951,Porsche 944 Turbo/951,M44/51,1986 US reference,2479,Turbo SOHC I4,Aluminum,217,243,S003,"European references often state 220 PS"
+m44-968,Porsche 968,M44/43,1992 US reference,2990,DOHC 16V I4,Aluminum,236,225,S005,"Porsche official source states 240 PS / 305 Nm"
+vw-07k,VW/Audi 07K,,2008 Rabbit reference,2480,DOHC 20V I5,Iron,170,177,S007A,"Multiple 07K year/code variants require separate donor-selection study"
+vw-18t-aeb,VW/Audi 1.8T,AEB/058,1997-1999 MWR-supported donor range,1781,Turbo DOHC 20V I4,Iron,,,S013,"Output varies by donor/tune"
+honda-k24a2,Honda K24,K24A2,2006 TSX reference,2354,DOHC 16V I4,Aluminum,205,164,S014,"Primary K-series comparison reference"
+gm-lnf,GM Ecotec,LNF,2007-2010 reference,1998,Turbo DOHC 16V I4,Aluminum,260,260,S018,"Direct injection; longitudinal applications existed"
+gm-ls3,GM LS,LS3,current crate reference,6162,OHV V8,Aluminum,430,425,S020,"Representative aluminum LS baseline"
+ford-23eb,Ford EcoBoost,2.3 EcoBoost,2015 Mustang reference,2300,Turbo DOHC I4,Aluminum,310,320,S021,"Longitudinal factory application"
+nissan-vk56de,Nissan VK56,VK56DE,2009 Titan reference,5552,DOHC 32V V8,Aluminum,317,385,S023,"Feasibility-study engine"
