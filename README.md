@@ -23,6 +23,10 @@ well-developed engine alternatives for the Porsche 944 platform.
 - GM aluminum LS-family V8
 - Ford 2.3L EcoBoost
 
+## Provisional investigation candidates
+
+- Nissan VK56 5.6L V8 — merits full packaging and feasibility investigation before promotion to the primary matrix.
+
 ## Secondary / footnote candidates
 
 2JZ, RB-series, VR6, Toyota 1UZ, Ford Coyote, Buick 3800, and Chevrolet 4.3 V6 are retained as
