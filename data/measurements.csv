@@ -1,1 +1,16 @@
 measurement_id,engine_id,configuration,datum_a,datum_b,value,unit,method,source_id,evidence_class,status,notes
+M001,m44-na,Factory dry engine,,,366,lb,Secondary transcription of Porsche workshop data,S002,A,Needs primary verification,"166 kg"
+M002,m44-na,"Accessories manifolds clutch bellhousing ready to run",,,400,lb,Builder/community scale report,S009,A,Provisional,"Useful installed comparison"
+M003,m44-968,Factory dry engine,,,379,lb,Factory-service-manual-derived reference,S006,R,Current,"172 kg"
+M004,vw-07k,"Fully dressed with 02J no A/C",,,447,lb,Shop scale,S010,M,Current,"Includes transmission"
+M005,02j-transmission,02J transmission,,,92,lb,Shop scale,S010,M,Current,
+M006,vw-07k,"Dressed engine inferred from engine+02J",,,355,lb,447 minus 92,S010,I,Provisional,"Configuration inherits source definition"
+M007,vw-07k,944 swap development,bellhousing_face,front_crank_pulley,-6.5,in,Relative builder/development measurement,S007,B,Provisional,"07K shorter than Porsche 2.5 reference"
+M008,vw-18t-aeb,"Fully dressed with 02J no A/C",,,445,lb,Shop scale,S010,M,Current,"Includes transmission"
+M009,vw-18t-aeb,"Dressed engine inferred from engine+02J",,,353,lb,445 minus 92,S010,I,Provisional,
+M010,honda-k24a2,Multiple stripped/dressed states,,,240-320,lb,Progressive component weighing,S015,M,Current,"Do not quote as a single fixed engine weight"
+M011,gm-ls1,"Shorty manifolds conversion flywheel/clutch ready to install",,,447,lb,Builder recollection,S011,B,Provisional,
+M012,gm-ls2,"Accessories manifolds clutch bellhousing",,,490,lb,Community-reported builder figure,S011,A,Provisional,
+M013,nissan-vk56de,Non-VVL engine overall,rear_block,front_intake,30,in,Yard tape measurement,S024,M,Provisional,"+/- about 1 in"
+M014,nissan-vk56de,Non-VVL engine overall,leftmost,rightmost,30,in,Yard tape measurement,S024,M,Provisional,"+/- about 1 in"
+M015,nissan-vk56de,Non-VVL engine overall,oil_pan_bottom,intake_top,33,in,Yard tape measurement,S024,M,Provisional,"+/- about 1 in"
