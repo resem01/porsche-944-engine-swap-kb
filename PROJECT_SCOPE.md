@@ -19,6 +19,14 @@ Establish comparable data for:
 - aluminum GM LS
 - Ford 2.3 EcoBoost
 
+### Provisional investigation candidate
+
+- Nissan VK56 5.6L V8
+
+The VK56 is to be evaluated for physical fit, oil-pan/crossmember clearance, hood clearance,
+torque-tube adaptation, installed mass, engine management, accessories, donor economics and
+availability of useful swap hardware before promotion into the primary comparison group.
+
 Comparison topics include:
 - dressed and swap-ready weight
 - engine dimensions using common datums
