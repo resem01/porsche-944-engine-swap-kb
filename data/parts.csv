@@ -1,1 +1,8 @@
-part_id,engine_family,system,manufacturer,part_number,description,status,source_id,notes
+part_id,engine_family,system,manufacturer,part_number,description,status,source_id,price_usd,price_checked_date,notes
+P001,VW 07K,complete conversion,Boost Brothers Garage,,944 07K Full Kit Phase 1+2,Current,S008,6295,2026-09-26,"Vendor listed approx. 6-week lead time"
+P002,VW 07K,clutch hydraulics,GM/FTE,"24237569 / 1102235",C6 ZR1 hydraulic throwout bearing options listed by Boost Brothers,Current,S008,,2026-09-26,
+P003,VW 07K,cooling,VW,06A121121C,1.8T thermostat housing cover required by current Boost Brothers kit,Current,S008,,2026-09-26,
+P004,VW 1.8T,engine installation,Motor Werks Racing,,058-to-944 engine installation kit,Current,S013,1899,2026-09-26,"From price; current batch status may vary"
+P005,GM LS,conversion,G Force Performance Products,GF-LS944-SWAPKIT,944 LS engine swap kit,Current,S019,2565,2026-09-26,"Requires C5 manual bellhousing and LS flywheel/pressure plate"
+P006,GM LS,complete conversion,G Force Performance Products,GF-LS944-KIT,Complete kit with headers/exhaust,Current,S019,5515,2026-09-26,"Price from current vendor listing"
+P007,Nissan VK56,transmission adapter,C3 Performance,5637-KIT,VK56 to VQ35/VQ37/VR30 CD009/JK manual transmission adapter,Current,S026,800,2026-09-26,"Not a Porsche torque-tube solution; useful feasibility reference"
