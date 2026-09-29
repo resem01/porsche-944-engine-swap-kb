@@ -43,11 +43,11 @@ This map points to technically useful pages/posts. It intentionally omits praise
 | 126 | #1880+ | Thermostat-housing parts and turbo-water routing |
 | 129 | #1922+ | Injector warning / spray pattern |
 | 130-131 | #1949-1960 | Oil pan received; slave bolts; clutch bleeding; production harness; pre-install assembly sequence; intake-off wiring note |
-| 134 | #1996+ | Early-chassis installation walkthrough/video |
-| 138 | #2066 | Detailed coolant routing and heater/turbo options |
-| 140 | #2100 | Transaxle guidance, PE ECU, 2008+ donor recommendation, weight-distribution expectation |
-| 143 | #2131 | Oil-filter-block check-valve failure; ECU-kit production; dyno preparation |
-| 144 | #2151+ | 2011+ oil-pump discussion |
+| 134 | #1996+ | Early-chassis installation walkthrough/video; starter/mount/crossmember sequence; Gallardo vs SPA turbo-manifold strategy; iAbed -10AN breather clarification |
+| 138 | #2064-2069 | Detailed coolant routing; TT-RS thermostat-housing alternative; heater/turbo-water options; accessory-drive A/C-compressor placeholder |
+| 140 | #2087-2100 | EA855 Evo packaging differences; additional stock-radiator hose combinations; early-944 electric A/C implementation; transaxle/PE ECU/2008+ donor guidance; no corner-weight data yet |
+| 143 | #2131-2145 | Oil-filter-block check-valve failure; ECU-kit production; 12-psi first-drive and 18-psi development testing; base-tune boost strategy; dyno preparation |
+| 144 | #2150-2159 | Baffled-pan track oil-pressure validation; offset independence; 2011+ oil-pump behavior and mount interference; dry-sump discussion |
 | 149 | #2231-2232 | Turbo-car dyno milestone |
 | 152 | #2268+ | Porsche coolant/oil sender integration; A/C progress |
 | 157-158 | #2348+ | 944 NA vs 07K vs LS installed-weight discussion |
@@ -81,6 +81,18 @@ Discarded:
 - weather/social conversation
 - speculative horsepower claims without technical context
 - duplicate quotes that add no new information
+
+## Direct page captures reviewed
+
+The following Rennlist pages have now also been reviewed from locally saved browser/PDF captures, which avoids the partial automated-access problem on Rennlist:
+
+- 130-131
+- 134
+- 138
+- 140
+- 143-144
+
+These captures are being used to verify post-level details against the public thread URLs; third-party page captures are not redistributed by this repository.
 
 ## Remaining gaps
 
