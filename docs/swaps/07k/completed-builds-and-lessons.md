@@ -28,6 +28,20 @@ By August 2021 the developers described it as:
 Source:
 - [Rennlist page 161](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-161.html)
 
+### July 2020 first-drive/tuning state
+
+Before final dyno development, Alan reported driving the turbo car at **12 psi on wastegate spring only**, with no added ignition timing or VVT tuning. The tuner monitored knock and reportedly found none through **18 psi** during development testing.
+
+The planned base-tune strategy was:
+- ~12 psi wastegate-spring mode
+- ~18 psi electronically controlled mode
+- user-selectable by switch if an EBC solenoid was fitted
+
+The developer explicitly declined to publish final horsepower at that stage until tuning was finished and cross-checked on other dynos.
+
+Source:
+- [Page 143, post #2143](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-143.html#post16794139)
+
 ## Dyno evidence
 
 During 2020 tuning, the development team reported power beginning with "4" on the dyno and later discussion references approximately **450 whp** for Alan's turbo car.
@@ -113,7 +127,7 @@ The developers' practical guidance:
 - 951 or 968 transaxle preferred as power rises
 - 01E conversion is possible but requires additional fabrication
 
-No single torque number should be treated as a guaranteed Porsche transaxle limit.
+No single torque number should be treated as a guaranteed Porsche transaxle limit. During the July 2020 turbo-car development, the team was already discussing 951-transaxle life as boost/power increased, with 01E conversion presented as the higher-power alternative rather than as part of the basic swap.
 
 Source:
 - [Page 140](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-140.html)
