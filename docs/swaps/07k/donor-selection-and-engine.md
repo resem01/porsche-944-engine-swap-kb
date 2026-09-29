@@ -47,13 +47,27 @@ A recurring recommendation in the thread was **2008-2010**:
 - inexpensive donor availability
 - simple six-bolt crank arrangement adequate for ordinary NA and moderate turbo builds
 
-Later 2011+ engines use a different oil-pump strategy. The thread initially expressed concern about high-rpm use, but later builder discussion indicated successful high-rpm operation when the pressure-control strategy is handled correctly. The 2008-2010 preference should therefore be read as a simplicity preference, not a hard prohibition against 2011+ engines.
+Later 2011+ engines use a different pressure-controlled oil-pump strategy. Page 144 records the development team's view that the earlier pump is **not known to retrofit** to the 2011+ engine. They also reported examples of later engines operating at high rpm with the oil-pressure solenoids disabled so the pump remains in high-pressure mode.
+
+The 2008-2010 preference should therefore be read as a **simplicity/package preference**, not a hard prohibition against 2011+ engines. On a later engine, the pressure-control solenoid/mount clearance also needs to be checked against the specific generation of swap mount being used.
 
 Relevant thread pages:
 - [Page 75](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-75.html)
 - [Page 109](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-109.html)
 - [Page 140](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-140.html)
 - [Page 144](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-144.html)
+
+## EA855 Evo / later aluminum-block five-cylinder
+
+Page 140 notes that the later aluminum-block Audi five-cylinder retains the general bellhousing relationship, but is **not a drop-in substitute** for the normal iron-block 07K swap. The thread identifies:
+- likely driver-side mount differences,
+- changed coolant/oil-system packaging,
+- greater top-end height because of Audi Valvelift hardware.
+
+Until common-datum measurements exist, the EA855 Evo/RS3 engine should be treated as a separate packaging problem rather than another 07K donor-year option.
+
+Source:
+- [Page 140, post #2087](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-140.html#post16712164)
 
 ## Crankshaft and flywheel interface
 
