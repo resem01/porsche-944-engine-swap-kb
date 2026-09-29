@@ -14,6 +14,8 @@ Initial structured research baseline:
 - completed the first-pass consolidation of the long Rennlist 07K development thread into subsystem documents
 - added a page/post source map and preserved major superseded designs, part numbers, failures and installation lessons
 
+- expanded the non-07K engine sweep with current 1.8T and LS vendor data, K24 case-study evidence, 968 wiring notes, Ecotec integration detail, EcoBoost/VK56 feasibility status, and documented secondary-engine builds
+
 The 07K consolidation is intentionally filtered to technical content. Because Rennlist blocks direct automated retrieval of
 some pages, this first pass uses indexed pages and targeted retrieval rather than claiming a literal line-by-line audit of
 all 182 pages. Remaining source gaps are listed in `docs/swaps/07k/source-map.md`.
