@@ -73,6 +73,15 @@ Historical turbo development included:
 
 The development team chose the reverse-rotation G25-660 partly to create a clean rearward exhaust path.
 
+Page 134 adds a useful builder comparison between two manifold strategies:
+- a modified **Gallardo manifold** can be reasonable for a car run naturally aspirated first and turbocharged later;
+- for a build intended to be turbocharged from the outset, the builder recommended using the **SPA turbo manifold** instead because it avoids much of the adaptation work.
+
+That installation also demonstrated that there was enough room ahead of the 07K for the turbo while still retaining a radiator in the original general location.
+
+Source:
+- [Page 134, posts #1998-2000](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-134.html#post16639454)
+
 Source:
 - [Page 20](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-20.html)
 
