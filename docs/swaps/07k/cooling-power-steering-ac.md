@@ -68,6 +68,24 @@ Example parts include:
 
 These should be treated as one builder's proven configuration, not the only valid routing.
 
+### TT-RS thermostat-housing alternative
+
+Page 138 documents another successful heater strategy. A builder used a **TT-RS thermostat housing** because its bypass circuit is separate from the heater circuit. That allowed retention of the **stock 944 heater shutoff valve** and reduced the rear-of-engine plumbing to two heater pipes.
+
+Source:
+- [Page 138, post #2064](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-138.html#post16684740)
+
+### Additional stock-radiator hose combinations
+
+A later early-chassis installation documented:
+- rear flange → Dayco **72365** → Gates **20416** → upper radiator
+- lower radiator → Dayco **72193** → Gates **22503** → thermostat neck
+
+The builder reported that this routing cleared an electric A/C compressor installation.
+
+Source:
+- [Page 140, post #2088](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-140.html#post16718281)
+
 ## Power steering
 
 Most 07K donor cars did not use the same belt-driven hydraulic power-steering arrangement needed by the 944.
@@ -108,7 +126,23 @@ Builders explored:
 - custom exhaust-side compressor mounts
 - electric A/C compressors
 
-At least one builder fabricated an electric-compressor system retaining stock early-944 condenser/evaporator hardware, but the thread does not establish a standardized commercial A/C solution.
+### Documented early-944 electric A/C installation
+
+Page 140 documents a functioning **custom installation layout** built around a 12 V electric compressor/controller while retaining the stock early-944 condenser and evaporator. The builder fabricated barrier-hose plumbing, used conventional O-ring A/C fittings, mounted the controller behind the cabin A/C unit, and ran heavy-gauge electrical wiring to the compressor.
+
+The thread identifies the compressor listing as a **JFSB116Z12-type 12 V R134a unit** rated by the seller around 6,120 BTU/h. The builder also documented hose/fitting sizes and service-port plumbing.
+
+This is evidence that electric A/C can be packaged with a 07K in an early 944. It is **not** evidence of validated cooling performance in high ambient temperature, and the discussion itself questioned how well these small electric compressors would perform near 100°F.
+
+Source:
+- [Page 140, posts #2090-2094](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-140.html#post16718647)
+
+### Accessory-drive placeholder on manual-steering cars
+
+One manual-steering builder disassembled a stock VW 07K A/C compressor and retained only the front housing/pulley to complete the belt path. A later post identifies the donor compressor family as approximately VW **1K0820859G**. This was a pulley/idler solution, **not functional A/C**.
+
+Source:
+- [Page 138](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-138.html)
 
 Relevant pages:
 - [Page 104](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-104.html)
@@ -120,4 +154,4 @@ Relevant pages:
 
 - **Cooling:** mature
 - **Power steering:** mature
-- **A/C:** custom / non-standardized
+- **A/C:** physically demonstrated with custom electric-compressor plumbing, but still non-standardized and without strong hot-weather performance validation
