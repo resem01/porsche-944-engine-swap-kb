@@ -17,3 +17,9 @@ P015,VW 07K,fuel,Aeromotive,13136,Fuel pressure regulator specified by current k
 P016,VW 07K,ignition,VW,06A905115D,1.8T ignition coils specified by current kit,Current,S008,,2026-09-26,
 P017,VW 07K,throttle,Lokar,TC-1000LS148,Throttle cable specified by current kit,Current,S008,,2026-09-26,
 P018,VW 07K,power steering,VW,1J0422152G,1.8T hydraulic power-steering pump historical cross-reference,Historical,S007,,,"Thread-era VW part number; check current vendor pump reference before purchase"
+P019,VW 1.8T,engine mounting,Motor Werks Racing,,Subframe engine mount kit,Current,S028,1599,2026-09-29,"058 engine; pre-mounted on jig; fabrication still required; vendor quotes 6-8 week typical preorder lead time"
+P020,VW 1.8T,intake,Motor Werks Racing,,944/924S 1.8T intake manifold,Current,S028,680,2026-09-29,"Vendor standard intake conflicts with factory brake booster unless booster/intake is modified"
+P021,VW 1.8T,clutch,Motor Werks Racing,,350+ HP clutch kit for NA 944 gearbox,Current,S028,1189,2026-09-29,"Vendor lists 385 lb-ft max torque rating; not for 944 Turbo gearbox"
+P022,VW 1.8T,brakes,Motor Werks Racing,,Brake booster delete kit,Current,S028,95,2026-09-29,"Standard MWR intake solution generally deletes factory booster"
+P023,GM LS,starter,AC Delco,12691976,Compact 2014+ LT-family starter required for G Force long-tube header clearance,Current,S033,,2026-09-29,
+P024,GM LS,exhaust,G Force Performance Products,GF-LS944-EXH,"321 stainless 1-7/8 in long-tube headers and full exhaust",Current,S034,,2026-09-29,"Designed specifically for G Force 944 LS kit"
