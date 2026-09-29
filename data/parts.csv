@@ -1,1 +1,25 @@
-part_id,engine_family,system,manufacturer,part_number,description,status,source_id,notes
+part_id,engine_family,system,manufacturer,part_number,description,status,source_id,price_usd,price_checked_date,notes
+P001,VW 07K,complete conversion,Boost Brothers Garage,,944 07K Full Kit Phase 1+2,Current,S008,6295,2026-09-26,"Vendor listed approx. 6-week lead time"
+P002,VW 07K,clutch hydraulics,GM/FTE,"24237569 / 1102235",C6 ZR1 hydraulic throwout bearing options listed by Boost Brothers,Current,S008,,2026-09-26,
+P003,VW 07K,cooling,VW,06A121121C,1.8T thermostat housing cover required by current Boost Brothers kit,Current,S008,,2026-09-26,
+P004,VW 1.8T,engine installation,Motor Werks Racing,,058-to-944 engine installation kit,Current,S013,1899,2026-09-26,"From price; current batch status may vary"
+P005,GM LS,conversion,G Force Performance Products,GF-LS944-SWAPKIT,944 LS engine swap kit,Current,S019,2565,2026-09-26,"Requires C5 manual bellhousing and LS flywheel/pressure plate"
+P006,GM LS,complete conversion,G Force Performance Products,GF-LS944-KIT,Complete kit with headers/exhaust,Current,S019,5515,2026-09-26,"Price from current vendor listing"
+P007,Nissan VK56,transmission adapter,C3 Performance,5637-KIT,VK56 to VQ35/VQ37/VR30 CD009/JK manual transmission adapter,Current,S026,800,2026-09-26,"Not a Porsche torque-tube solution; useful feasibility reference"
+P008,VW 07K,clutch hydraulics,GM,24249824,Historical hydraulic throwout bearing specified in 2019 thread,Superseded,S007,,,"Current Boost Brothers requirement is GM 24237569 or FTE 1102235"
+P009,VW 07K,clutch hydraulics,GM,24234308,Solstice GXP hydraulic throwout bearing used in documented 2019 working installation,Historical,S007,,,"Working development-era configuration; not current vendor requirement"
+P010,VW 07K,starter,Remy,17428,Starter specified by current Boost Brothers full kit,Current,S008,,2026-09-26,
+P011,VW 07K,clutch hydraulics,Kappadapt,CHK101-2,Hydraulic hose adapter for throwout bearing,Current,S008,,2026-09-26,
+P012,VW 07K,clutch hydraulics,JEGS,635158,Clutch hydraulic hose,Current,S008,,2026-09-26,
+P013,VW 07K,clutch hydraulics,Earls,AT9919BFEERL,Clutch master hose adapter M12x1.0 to -4AN,Current,S008,,2026-09-26,
+P014,VW 07K,throttle,VW,021133064A,VR6 cable throttle body specified by current kit,Current,S008,,2026-09-26,
+P015,VW 07K,fuel,Aeromotive,13136,Fuel pressure regulator specified by current kit,Current,S008,,2026-09-26,
+P016,VW 07K,ignition,VW,06A905115D,1.8T ignition coils specified by current kit,Current,S008,,2026-09-26,
+P017,VW 07K,throttle,Lokar,TC-1000LS148,Throttle cable specified by current kit,Current,S008,,2026-09-26,
+P018,VW 07K,power steering,VW,1J0422152G,1.8T hydraulic power-steering pump historical cross-reference,Historical,S007,,,"Thread-era VW part number; check current vendor pump reference before purchase"
+P019,VW 1.8T,engine mounting,Motor Werks Racing,,Subframe engine mount kit,Current,S028,1599,2026-09-29,"058 engine; pre-mounted on jig; fabrication still required; vendor quotes 6-8 week typical preorder lead time"
+P020,VW 1.8T,intake,Motor Werks Racing,,944/924S 1.8T intake manifold,Current,S028,680,2026-09-29,"Vendor standard intake conflicts with factory brake booster unless booster/intake is modified"
+P021,VW 1.8T,clutch,Motor Werks Racing,,350+ HP clutch kit for NA 944 gearbox,Current,S028,1189,2026-09-29,"Vendor lists 385 lb-ft max torque rating; not for 944 Turbo gearbox"
+P022,VW 1.8T,brakes,Motor Werks Racing,,Brake booster delete kit,Current,S028,95,2026-09-29,"Standard MWR intake solution generally deletes factory booster"
+P023,GM LS,starter,AC Delco,12691976,Compact 2014+ LT-family starter required for G Force long-tube header clearance,Current,S033,,2026-09-29,
+P024,GM LS,exhaust,G Force Performance Products,GF-LS944-EXH,"321 stainless 1-7/8 in long-tube headers and full exhaust",Current,S034,,2026-09-29,"Designed specifically for G Force 944 LS kit"
