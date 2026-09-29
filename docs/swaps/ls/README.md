@@ -2,8 +2,9 @@
 
 ## Baseline status
 
-The LS family has the most mature V8 swap ecosystem for the Porsche 944/951. This knowledge base uses **aluminum-block
-LS engines** as the primary comparison; iron truck blocks are tracked separately because they add substantial mass.
+The LS family has the most mature V8 swap ecosystem for the Porsche 944/951. This knowledge base uses **aluminum-block Gen III/IV
+LS engines** as the primary comparison; iron truck blocks are tracked separately because their additional mass materially changes
+the result.
 
 ## Reference engine
 
@@ -13,59 +14,94 @@ A current Chevrolet Performance LS3 reference is:
 - 430 hp @ 5,900 rpm
 - 425 lb-ft @ 4,600 rpm [S020]
 
-LS1/LS2/LS3 details vary, so one engine should not stand in for the entire family when weight, electronics or accessories matter.
+LS1/LS2/LS3 details vary; one engine should not stand in for the family when electronics, accessory drives, mass, or clutch parts matter.
 
-## Current 944-specific support
+## Current commercial support
 
-G Force currently sells both a core conversion kit and a more complete package for 1982-1991 944/944S/944 Turbo/951 manual cars [S019].
-The current package includes or supports:
+### G Force
+
+G Force currently lists [S019][S033]:
+- core 944 LS swap kit — **$2,565**
+- complete kit with long-tube headers/full exhaust — **$5,515**
+
+The system fits 1982-1991 manual 944/944S/944 Turbo/951 cars and retains the Porsche rear transaxle architecture.
+
+Current core hardware includes:
 - bellhousing adapter
-- GM hydraulic throwout bearing/slave
+- GM concentric slave/throwout bearing
 - remote bleeder
 - custom oil pan and pickup
-- Porsche-compatible clutch disc
+- 11-in Porsche-spline clutch disc
 - engine mounts
 - VSS adapter
-- crossmember spacers
-- power-steering-pump bracket
-- optional/complete long-tube exhaust system
+- front crossmember spacers
+- bracket for retaining the Porsche power-steering pump
+- oil-pressure-sender tee
 
-The G Force system requires a manual C5 Corvette bellhousing and LS-style flywheel/pressure plate; those details must be
-included when comparing costs.
+Builder still supplies:
+- manual C5 Corvette bellhousing
+- LS-style flywheel and pressure plate
+- remote oil-filter system
 
-Rennlist discussion also identifies Texas Performance Concepts and Renegade Hybrids as established kit paths [S019A].
-Current availability and exact kit completeness for each supplier should be audited separately.
+The complete G Force system adds 1-7/8-in 321 stainless long-tube headers and exhaust [S033][S034].
+
+A compact **2014+ LT-family starter, AC Delco 12691976**, is required by the G Force long-tube-header packaging [S033][S034].
+
+### Other established ecosystems
+
+A late-2024 Rennlist survey still identified:
+- G Force
+- Texas Performance Concepts (TPC)
+- Renegade Hybrids
+
+as available/known 944 LS paths [S019A].
+
+Renegade's company site remains active in 2026 as a Porsche LS-conversion specialist. TPC continues to appear in recent builder
+parts discussions, but its current web catalog was not reliably indexable during this sweep. Accordingly, **G Force is the
+best-documented current online package in this baseline**; the existence of older TPC/Renegade hardware remains well supported.
+
+## Builder integration lessons
+
+Long-running builder documentation identifies recurring system issues [S035]:
+- base NA transaxle is a poor long-term match for LS torque
+- Turbo/S2 transaxles are preferred for retained-Porsche-driveline cars
+- vacuum-booster clearance is difficult; manual brakes or hydroboost are common
+- Turbo/S2 radiator or upgraded cooling is typical
+- F-body accessory drives and custom/kit exhaust packaging are common
+- wiring can be comparatively simple with a complete GM harness/ECU, but chassis integration still requires careful pinout work
 
 ## Weight evidence
 
-Community measurements/reports on fully configured aluminum LS installations are substantially higher than commonly
-quoted bare-engine figures:
+Community measurements/reports on fully configured aluminum LS installations:
 - LS1 with shorty manifolds, conversion flywheel/clutch: approximately **447 lb** [S011]
 - LS2 with accessories, manifolds, clutch and bellhousing: approximately **490 lb** [S011]
 
-These values make the LS heavier than the stock 944 NA engine in comparable trim, although the difference is far smaller
-than an iron-block LS.
+These values are more useful than bare-crate weights when comparing against the Porsche M44.
 
 ## Strengths
 
-- very high power and torque without forced induction
-- broad parts availability
-- mature 944 adapter/oil-pan/mount solutions
-- multiple documented completed cars
-- extensive ECU/tuning ecosystem
+- highest-maturity V8 path
+- strong commercial support
+- very high naturally aspirated power/torque
+- abundant service parts
+- broad ECU/tuning support
+- multiple brake/transaxle/exhaust solutions already documented
 
 ## Tradeoffs
 
-- higher installed mass than 07K/K24-class alternatives
-- greater width
-- substantial torque load on the Porsche transaxle
-- brake/hydroboost, exhaust, steering and accessory packaging can vary by kit
-- power level can easily exceed what the rest of the 944 drivetrain/chassis was designed to absorb
+- heavier swap-ready package than most four/five-cylinder candidates
+- width and brake-assist packaging
+- substantial torque load on Porsche transaxles/CVs
+- heat and exhaust density
+- power level can easily outrun the chassis, brake, cooling, and drivetrain specification
 
 ## Current maturity assessment
 
 **Maturity: Very high.**
 
+The September 2026 sweep reinforces LS as the benchmark for a **mature, commercially supported high-output swap**, rather than
+the benchmark for lowest mass or easiest service access.
+
 ## Source anchors
 
-See [SOURCE_INDEX.md](../../SOURCE_INDEX.md): S011, S019, S019A, S020.
+See [SOURCE_INDEX.md](../../SOURCE_INDEX.md): S011, S019, S019A, S020, S033, S034, S035.
