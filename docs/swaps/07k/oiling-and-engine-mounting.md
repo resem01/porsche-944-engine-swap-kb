@@ -55,6 +55,15 @@ Current source:
 
 This current vendor configuration supersedes the early-development descriptions.
 
+### Track oil-pressure validation
+
+Page 144 clarifies that the baffles/trap doors were added **precautionarily**, because many swaps were expected to see track use. The development team reported logging oil pressure on track with the baffled pan and seeing **no oil-pressure problems**. They planned to repeat the logging on the faster turbo car.
+
+The same post confirms that early-versus-late wheel offset does **not** affect swap-kit fitment.
+
+Source:
+- [Page 144, post #2150](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-144.html#post16800895)
+
 ## Oil-filter block
 
 The conversion architecture replaces/relocates the stock oil-filter arrangement with a compact block that supports:
@@ -68,7 +77,15 @@ Relevant pages:
 - [Page 143](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-143.html)
 - [Page 161](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-161.html)
 
-This is exactly the type of failure history the knowledge base should preserve.
+The original page-143 report is unusually specific: the faulty check valve caused **no oil to reach the cylinder head**, producing the persistent lifter tick. iAbed reportedly considered the failure a one-off defect.
+
+Page 134 also clarifies a commonly confusing fitting on the development-era iAbed block: the **-10AN port was a crankcase-breather connection to the catch can**, not an oil or coolant return.
+
+Sources:
+- [Page 134, posts #2000-2002](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-134.html#post16639540)
+- [Page 143, post #2131](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-143.html#post16786590)
+
+This is exactly the type of failure/plumbing history the knowledge base should preserve.
 
 ## Engine mounts
 
@@ -109,6 +126,17 @@ A later developer retrospective offered three useful recommendations:
 
 Source:
 - [Page 161](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-161.html)
+
+## 2011+ oil-pump / mount interaction
+
+Page 144 adds a useful late-engine installation detail. The development team stated that the 2008-2010 pump cannot, to their knowledge, simply be retrofitted to a 2011+ engine. On 2011+ engines, disconnecting the pressure-control solenoid causes the system to **fail into high-pressure mode**.
+
+However, that solenoid interfered with the then-current 944 engine mount. The developers had designed a replacement plug and also noted that the mount could be ground locally for clearance; they intended to revise later mount production runs.
+
+This is historical development information. A builder using current Boost Brothers mounts should verify the present hardware before modifying anything.
+
+Source:
+- [Page 144, posts #2152 and #2158](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/803341-vw-audi-07k-2-5l-20v-i5-swap-thread-144.html#post16807454)
 
 ## Chassis offset
 
