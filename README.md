@@ -48,7 +48,7 @@ unless new evidence materially improves their suitability or swap support.
 It is intentionally incomplete. Values marked provisional, inferred, disputed, or needing measurement should not be
 treated as final design data.
 
-The long-form 07K Rennlist thread still requires a dedicated page-by-page extraction pass.
+The 07K Rennlist thread has received a first-pass subsystem consolidation with a page/post source map. The other primary engine families have now received a dedicated web sweep for current vendor support, completed builds, and feasibility evidence. Remaining gaps are identified within each engine branch.
 
 ## Core principles
 
