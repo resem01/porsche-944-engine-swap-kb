@@ -38,6 +38,24 @@ Evidence classes are defined in [Evidence and Provenance](methodology/evidence-a
 | S026 | V | VK56 | [C3 VK56 manual-trans adapter](https://www.c3adapters.com/product-page/vk50-56-to-vq35-37-6-speed-transmission-adapter-kit) | Shows active VK manual-transmission adapter ecosystem |
 | S027 | R | 07K/944 | [Engine Swap Depot: Porsche 944 with a Turbo VW Inline-Five](https://engineswapdepot.com/?p=123906) | Independent 2024 snapshot of the Boost Brothers test mule: G25-660, 350 hp / 320 lb-ft low boost, Spec clutch and factory torque tube |
 
+| S028 | V | 1.8T/944 | [MWR current 1.8T product catalog](https://www.motorwerksracing.com/new-products) | Active 944/924S commercial ecosystem with installation, mount, cooling, intake, clutch and turbo parts |
+| S029 | V | 1.8T/944 | [MWR Gulf Tribute](https://www.motorwerksracing.com/porsche-944-gulf-tribute/) | 1988 944: 315 hp / 365 lb-ft, K04, 986 gearbox |
+| S030 | V | 1.8T/944 | [MWR Rothman's Tribute](https://www.motorwerksracing.com/rothmans-18t-tribute) | 1987 944 chassis: 450 hp / 395 lb-ft, 987 gearbox |
+| S031 | R | K24/944 | [The Drive Project K244 introduction](https://www.thedrive.com/news/were-putting-a-honda-engine-in-this-porsche-with-big-dreams-and-a-small-budget) | Documents use of an untested 944-specific overseas kit intended to retain the Porsche transaxle |
+| S032 | V | K24 | [KPower Industries FAQ](https://kpower.industries/pages/faqs) | Current general RWD K-series guidance; K24A2 preferred, but no 944 product offering |
+| S033 | V | LS/944 | [G Force complete LS kit](https://www.crossmembers.com/products/complete-porsche-944-ls-swap-kit-gf-ls944-kit) | Current $5,515 full kit with long-tube exhaust; C5 bellhousing and LS flywheel/pressure plate still required |
+| S034 | V | LS/944 | [G Force long-tube exhaust](https://www.crossmembers.com/products/porsche-ls-exhaust-w-long-tube-headers-gf-ls944-exh) | Current 321SS 1-7/8-in long-tubes; packaging requires compact LT starter |
+| S035 | B | LS/944 | [Rennlist LS1 conversion discussion](https://rennlist.com/forums/924-931-944-951-968-forum/822749-ls1-conversion.html) | Builder integration details: TPC parts, brakes/hydroboost, transaxle, cooling and wiring |
+| S036 | B | 968/944 | [944 S3 / 968 drivetrain conversion](https://rennlist.com/forums/924-931-944-951-968-forum/928164-944-s3-aka-944-to-968-drivetrain-engine-conversion.html) | Detailed wiring/pinout work; DME pin 27 switched-power requirement |
+| S037 | A | EcoBoost/944 | [2025 EcoBoost discussion](https://www.reddit.com/r/porsche944/comments/1l8meoi) | Current community status still describes a custom-engineering path without established kit |
+| S038 | B | RB25/944 | [Porzilla944 RB25DET NEO](https://rennlist.com/forums/944-and-944s-forum/1325317-porzilla944-with-a-nissan-rb-engine.html) | Owner documents completed/running RB-swapped 944 |
+| S039 | B | 2JZ/944 | [2JZ 944 running video](https://www.youtube.com/watch?v=FaqVwKCqUT0) | CD009/350Z-rear-subframe architecture; builder reports 530 whp low boost |
+| S040 | B | 1UZ/944 | [Documented 1UZ 944 conversion](https://v8forum.co.uk/forum/viewtopic.php?t=13132) | Torque-tube adapter, hydroboost, clutch mix and chassis-rail clearance work |
+| S041 | B | VR6/944 | [VR 944 Project](https://rennlist.com/forums/924-931-944-951-968-forum/502144-vr-944-project.html) | Modified VW bellhousing and torque-tube adapter reached physical test-fit stage |
+| S042 | A | Coyote/944 | [2025 packaging comparison](https://rennlist.com/forums/944-turbo-and-turbo-s-forum/1458033-talk-me-off-the-ledge-07k-swap-2.html) | Builder reports one Coyote 944 with extremely tight service clearance |
+| S043 | B | 2JZ/944 | [2JZ retaining Porsche torque tube/transaxle](https://www.reddit.com/r/944/comments/snuj95) | Alternative 2JZ architecture that preserves the Porsche rear transaxle |
+| S044 | V | 1.8T/944 | [MWR FATurbo Express](https://www.motorwerksracing.com/porsche-944-faturbo-express-tribute) | 1983 944: 345 hp / 300 lb-ft, Garrett 2860RS, 986 gearbox |
+
 ## Source gaps to close
 
 - Obtain a directly citable Porsche 944 workshop/manual source for the 166 kg dry-engine figure.
